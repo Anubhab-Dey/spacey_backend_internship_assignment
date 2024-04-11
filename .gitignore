@@ -276,3 +276,7 @@ spacey_backend_internship_assignment/media/
 .pytest_cache/
 .env
 .envs/*
+spacey-backend-internship-assignment/Scripts/identify-cli.exe
+spacey-backend-internship-assignment/Scripts/nodeenv.exe
+spacey-backend-internship-assignment/Scripts/pre-commit.exe
+spacey-backend-internship-assignment/Scripts/virtualenv.exe
